@@ -1,0 +1,47 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+Copyright (c) 2024-2025 FrogUI Contributors
+
+FrogUI Contributors:
+- Tomasz Zubertowski (tzubertowski @ GitHub, Prosty @ social media/Discord)
+- Desoxyn (Trademarked69 @ GitHub)
+- Q_ta (Q_ta_s @ social media https://github.com/Q-ta-s)
+- Grzegorz Korycki (TheQ https://github.com/angree) - FrogUI Modded fork
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike
+4.0 International License.
+
+You are free to:
+- Share - copy and redistribute the material in any medium or format
+- Adapt - remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution - You must give appropriate credit to the FrogUI contributors, provide
+  a link to the license, and indicate if changes were made.
+- NonCommercial - You may not use the material for commercial purposes. This includes
+  selling FrogUI or bundling it with devices for sale. For commercial licensing,
+  contact the copyright holders.
+- ShareAlike - If you remix, transform, or build upon the material, you must distribute
+  your contributions under the same license as the original.
+- No additional restrictions - You may not apply legal terms or technological measures
+  that legally restrict others from doing anything the license permits.
+
+To view a copy of this license, visit:
+http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---
+
+NOTICE: FrogUI requires sf2000_multicore framework to build.
+sf2000_multicore (Desoxyn's fork) is licensed under ISC License.
+https://github.com/Trademarked69/sf2000_multicore
+
+---
+
+Third-party components included in this project:
+
+- libmad (MP3 decoder) - GNU GPL v2
+- xvid (MPEG-4 decoder) - GNU GPL v2
+- lodepng (PNG decoder) - zlib license
+- stb_image, stb_truetype - Public domain
+- gifdec - Public domain
+- TinyJPEG - BSD license
